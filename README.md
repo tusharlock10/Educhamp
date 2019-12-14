@@ -6,7 +6,7 @@ Educhamp, based in Sydney, is SaaS for educational institutes and coaching cente
 
 # App features
 
-  - View the profile of a person
+  - View the profile of a person 
   - See the various rea eastates which are either Active, Drafts or Expired.
   - See the description of the company
   - Contact the agent for bying a real estate
