@@ -2,7 +2,7 @@
 
 Educhamp, based in Sydney, is SaaS for educational institutes and coaching centers in Australia. We have built custom software and are now on a path to standardize it across Australia. We're expanding our Sydney-based team and would love it if you could join us.
 
-![Screenshot of the App](\assets\src1.png "Screentshot of the App")
+![Screenshot of the App](https://raw.githubusercontent.com/tusharlock10/Educhamp/master/assets/src1.png "Screentshot of the App")
 
 # App features
 
